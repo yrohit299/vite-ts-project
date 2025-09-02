@@ -1,2 +1,2 @@
 # vite-ts-project
-Basic of TS
+Basic toso list creation with vite and typescript
